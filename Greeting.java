@@ -1,4 +1,4 @@
-
+//added comment - ashna
 public class Greeting {
 	public Greeting()
 	{
@@ -6,6 +6,7 @@ public class Greeting {
 	}
 	public String getMessage()
 	{
+		//Smita's comment
 		return "Hello world";
 	}
 }

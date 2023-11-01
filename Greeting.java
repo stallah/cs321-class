@@ -6,6 +6,7 @@ public class Greeting {
 	}
 	public String getMessage()
 	{
+		//Smita's comment
 		return "Hello world";
 	}
 }
